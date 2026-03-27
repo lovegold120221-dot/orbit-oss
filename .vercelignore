@@ -1,0 +1,15 @@
+backend/
+.github/
+node_modules/
+.venv/
+.env
+.env.*
+!.env.example
+*.pyc
+__pycache__/
+Dockerfile
+docker-compose.yml
+livekit.yaml
+nginx.conf
+requirements*.txt
+README.md
